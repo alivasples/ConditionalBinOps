@@ -1,0 +1,5 @@
+category(string,121);product(string,236);stock(float,1);price(float,1);
+"Games > Educational Games"; "Orchard Toys Farmyard Dominoes"; 2; 16; 
+"Games > Educational Games"; "Orchard Toys Dolls House"; 3; 12; 
+"Games > Educational Games"; "Orchard Toys Shopping List"; 10; 8; 
+"Games > Educational Games"; "Orchard Toys Farmyard Dominoes"; 2; 15; 

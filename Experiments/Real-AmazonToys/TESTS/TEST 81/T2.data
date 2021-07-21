@@ -1,0 +1,6 @@
+category(string,121);product(string,236);stock(float,1);price(float,1);
+"Characters & Brands > Disney > Toys"; "LEGO Star Wars 75080 AAT"; 11; 60; 
+"Figures & Playsets > Dinosaurs"; "Playmobil 5230 Dinos Volcano with T-Rex Dinosaur"; 4; 85; 
+"Dolls & Accessories > Playsets"; "Playmobil 5146 Princess Bed Chamber with Cradle"; 2; 59; 
+"Figures & Playsets > Cowboys & Indians"; "Playmobil 5251 Sheriff with Horse"; 1; 32; 
+"Figures & Playsets > Pirates"; "Playmobil 5141 Pirates Redcoat Cannon Guard"; 1; 11; 

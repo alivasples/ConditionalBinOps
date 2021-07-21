@@ -1,0 +1,4 @@
+category(string,121);product(string,236);stock(float,1);price(float,1);
+"Fancy Dress > Costumes"; "Knight To Remember"; 4; 60; 
+"Fancy Dress > Costumes > Adults"; "Warrior Style Helmet with Horns Made from Soft Rubber. Adult Size"; 1; 9; 
+"Figures & Playsets > Knights & Castles"; "Schleich Dragon Knight on Horse With Flail"; 10; 16; 
