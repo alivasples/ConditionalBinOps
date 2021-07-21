@@ -4,7 +4,7 @@
 indexGenerator="$HOME/Documentos/PROJECTS/ConditionalBinOps/SourceCodes/IndexGenerator/Debug/IndexGenerator"
 condOperator="$HOME/Documentos/PROJECTS/ConditionalBinOps/SourceCodes/CondBinOps/Debug/CondBinOps"
 nrTests=100
-nrRepetitions=1
+nrRepetitions=5
 
 # Creating index structures
 for i in {0..5}
