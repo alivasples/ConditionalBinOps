@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Variables
-indexGenerator="$HOME/Documentos/PROJECTS/ConditionalBinOps/SourceCodes/IndexGenerator/Debug/IndexGenerator"
-condOperator="$HOME/Documentos/PROJECTS/ConditionalBinOps/SourceCodes/CondBinOps/Debug/CondBinOps"
+indexGenerator="$HOME/Documents/PROJECTS/ConditionalBinOps/SourceCodes/IndexGenerator/Debug/IndexGenerator"
+condOperator="$HOME/Documents/PROJECTS/ConditionalBinOps/SourceCodes/CondBinOps/Debug/CondBinOps"
 nrTests=100
-nrRepetitions=1
+nrRepetitions=10
 
 # Creating index structures
 for i in {0..6}

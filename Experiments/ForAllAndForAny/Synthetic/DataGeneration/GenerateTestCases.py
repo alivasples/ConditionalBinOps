@@ -6,8 +6,8 @@ import subprocess as sp
 import random as rd
 
 # Global variables
-gbl_path_index_gen = os.getenv("HOME")+'/Documentos/PROJECTS/ConditionalBinOps/SourceCodes/IndexGenerator/Debug/IndexGenerator'
-gbl_path_relCondForAllAny = os.getenv("HOME")+'/Documentos/PROJECTS/ConditionalBinOps/SourceCodes/CondBinOps/Debug/CondBinOps'
+gbl_path_index_gen = os.getenv("HOME")+'/Documents/PROJECTS/ConditionalBinOps/SourceCodes/IndexGenerator/Debug/IndexGenerator'
+gbl_path_relCondForAllAny = os.getenv("HOME")+'/Documents/PROJECTS/ConditionalBinOps/SourceCodes/CondBinOps/Debug/CondBinOps'
 gbl_want_generate_index = False
 gbl_want_execute_queries = False
 gbl_nr_repetitions = 10
