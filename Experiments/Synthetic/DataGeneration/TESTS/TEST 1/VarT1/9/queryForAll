@@ -1,0 +1,2 @@
+T1 ForAll T2 ON 
+T1.ATT0 = T2.ATT0 and (T1.ATT1 < T2.ATT1 or (T1.ATT2 > T2.ATT2 ))

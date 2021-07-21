@@ -218,10 +218,10 @@ if __name__ == '__main__':
     nr_steps = 10
     # for i in range(1,2):
         # work_path = f'TESTS/TEST {i}/'
-    # generate_var_T1(10000, nr_steps)
+    generate_var_T1(10000, nr_steps)
     generate_var_T2(100, nr_steps)
     generate_var_TG(100, nr_steps)
-    generate_var_atts(100, nr_steps)
+    generate_var_atts(20, nr_steps)
     generate_var_valid_groups('ForAll', 100, nr_steps)
     generate_var_valid_groups('ForAny', 100, nr_steps)
     generate_var_distribution(nr_steps)
